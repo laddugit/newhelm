@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  javawebapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-14T11:56:37.987714293Z"
+    description: A Helm chart for javawebapp application
+    digest: deddf673004238f0de43ed99572f139c45a5855c83b55aec279c3f171ca069f1
+    name: javawebapp
+    type: application
+    urls:
+    - https://laddugit.github.io/newhelm/javawebapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-08-14T11:56:37.986412184Z"
